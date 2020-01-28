@@ -1,0 +1,16 @@
+<h3>Food Menu</h3>
+<ul>
+    <li>
+        <a [routerLink]="'/menu/starter'" routerLinkActive="active">Starter</a>
+      </li>
+  <li>
+    <a [routerLink]="'/menu/indian'" routerLinkActive="active"> Indian Food </a>
+  </li>
+  <li>
+    <a [routerLink]="'/menu/chinese'" routerLinkActive="active">Chinese Food</a>
+  </li>
+ 
+</ul> 
+ <div class='container'>
+    <router-outlet></router-outlet>
+  </div>    	

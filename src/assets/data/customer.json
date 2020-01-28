@@ -1,0 +1,36 @@
+[
+    {
+      "CustomerId":1,
+      "CustomerName":"Ravi",
+      "CustomerEmail":"ravi@gmail.com",
+      "CustomerNum": 9745725851,
+       "Gender" : "Male",
+       "Ratting" : 4
+
+    },
+    {
+      "CustomerId":2,
+      "CustomerName":"Viraj",
+      "CustomerEmail":"viraj@gmail.com",
+      "CustomerNum": 7856249745,
+      "Gender" : "Female",
+      "Ratting" : 3
+    },
+    {
+      "CustomerId":3,
+      "CustomerName":"Meet",
+      "CustomerEmail":"meet@gmail.com",
+      "CustomerNum": 8154269745,
+      "Gender" : "Male",
+      "Ratting" : 5
+      
+    },
+    {
+      "CustomerId":4,
+      "CustomerName":"Yash",
+      "CustomerEmail":"yash@gmail.com",
+      "CustomerNum": 8154269745,
+      "Gender" : "Female",
+      "Ratting" : 4
+    }
+  ]
